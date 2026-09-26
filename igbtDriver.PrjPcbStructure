@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TOP_LEVEL.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP_LEVEL.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Vs.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Vs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_LEVEL.SchDoc|Designator=HS1|SchDesignator=HS1|FileName=Gate_Driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Gate_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_LEVEL.SchDoc|Designator=LS1|SchDesignator=LS1|FileName=Gate_Driver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Gate_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
